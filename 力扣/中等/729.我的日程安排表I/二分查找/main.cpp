@@ -1,4 +1,4 @@
-class MyCalendar {
+ class MyCalendar {
     set<pair<int,int>> booked;//set会自动排序，如果第一个int相同会根据第二个来排序
 public:
     MyCalendar() {
